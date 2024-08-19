@@ -1,0 +1,315 @@
+[
+    {
+        "id": 1,
+        "name": "Caesar Salad",
+        "price": 7.99,
+        "image": "https://i.ibb.co/VHd5Lng/salad1.jpg",
+        "description": "Crisp romaine lettuce with Caesar dressing, croutons, and Parmesan cheese.",
+        "category": "Salad"
+    },
+    {
+        "id": 2,
+        "name": "Greek Salad",
+        "price": 8.99,
+        "image": "https://i.ibb.co/bRV5x5k/salad2.jpg",
+        "description": "Mixed greens with tomatoes, cucumbers, olives, feta cheese, and Greek dressing.",
+        "category": "Salad"
+    },
+    {
+        "id": 3,
+        "name": "Garden Salad",
+        "price": 6.99,
+        "image": "https://i.ibb.co/WkND6GK/salad3.jpg",
+        "description": "Fresh garden vegetables with a choice of dressing.",
+        "category": "Salad"
+    },
+    {
+        "id": 4,
+        "name": "Caprese Salad",
+        "price": 9.99,
+        "image": "https://i.ibb.co/rcQJ4dj/salad4.png",
+        "description": "Tomatoes, fresh mozzarella, and basil with balsamic glaze.",
+        "category": "Salad"
+    },
+    {
+        "id": 5,
+        "name": "Quinoa Salad",
+        "price": 10.99,
+        "image": "https://i.ibb.co/z7w2fyM/salad5.jpg",
+        "description": "Quinoa, mixed greens, avocado, black beans, corn, and lime vinaigrette.",
+        "category": "Salad"
+    },
+    {
+        "id": 6,
+        "name": "Veggie Spring Roll",
+        "price": 5.99,
+        "image": "https://i.ibb.co/8XvR8sr/rolls1.jpg",
+        "description": "Crispy spring rolls filled with fresh vegetables.",
+        "category": "Roll"
+    },
+    {
+        "id": 7,
+        "name": "Chicken Roll",
+        "price": 6.99,
+        "image": "https://i.ibb.co/3WsQWtJ/rolls2.jpgg",
+        "description": "Spicy chicken rolled in a flatbread with veggies.",
+        "category": "Roll"
+    },
+    {
+        "id": 8,
+        "name": "Egg Roll",
+        "price": 4.99,
+        "image": "https://i.ibb.co/qsgVryb/rolls3.jpg",
+        "description": "Classic egg rolls with a savory filling.",
+        "category": "Roll"
+    },
+    {
+        "id": 9,
+        "name": "Lumpia",
+        "price": 5.49,
+        "image": "https://i.ibb.co/6bb7TKV/rolls4.jpg",
+        "description": "Filipino-style spring rolls with pork and vegetables.",
+        "category": "Roll"
+    },
+    {
+        "id": 10,
+        "name": "Sushi Roll",
+        "price": 12.99,
+        "image": "https://i.ibb.co/02qh4BV/rolls5.jpg",
+        "description": "Assorted sushi rolls with fresh fish and vegetables.",
+        "category": "Roll"
+    },
+    {
+        "id": 11,
+        "name": "Chokolate Cake",
+        "price": 4.99,
+        "image": "https://i.ibb.co/Gs8jjMY/desert1.jpg",
+        "description": "Rich and moist chocolate cake with a creamy chocolate frosting.",
+        "category": "Dessert"
+    },
+    {
+        "id": 12,
+        "name": "Cheesecake",
+        "price": 5.99,
+        "image": "https://i.ibb.co/2nz9BmZ/desert2.jpg",
+        "description": "Creamy cheesecake with a graham cracker crust.",
+        "category": "Dessert"
+    },
+    {
+        "id": 13,
+        "name": "Apple Pie",
+        "price": 3.99,
+        "image": "https://i.ibb.co/2vWyjsQ/desert3.jpg",
+        "description": "Classic apple pie with a flaky crust.",
+        "category": "Dessert"
+    },
+    {
+        "id": 14,
+        "name": "Tiramisu",
+        "price": 6.99,
+        "image": "https://i.ibb.co/Sd3sMkL/desert4.jpg",
+        "description": "Italian dessert with layers of coffee-soaked ladyfingers and mascarpone cream.",
+        "category": "Dessert"
+    },
+    {
+        "id": 15,
+        "name": "Panna Cotta",
+        "price": 5.49,
+        "image": "https://i.ibb.co/yFNLxbd/desert5.jpg",
+        "description": "Silky smooth Italian dessert with a hint of vanilla.",
+        "category": "Dessert"
+    },
+    {
+        "id": 16,
+        "name": "Club Sandwich",
+        "price": 7.99,
+        "image": "https://i.ibb.co/Cb0trdf/sandwich1.jpg",
+        "description": "Triple-layered sandwich with turkey, bacon, lettuce, and tomato.",
+        "category": "Sandwich"
+    },
+    {
+        "id": 17,
+        "name": "BLT Sandwich",
+        "price": 6.99,
+        "image": "https://i.ibb.co/V9GpC8p/sandwich2.jpg",
+        "description": "Classic bacon, lettuce, and tomato sandwich.",
+        "category": "Sandwich"
+    },
+    
+    {
+        "id": 19,
+        "name": "Ham Sandwich",
+        "price": 6.49,
+        "image": "https://i.ibb.co/y8g53X9/sandwich4.jpg",
+        "description": "Ham and cheese sandwich with lettuce and mustard.",
+        "category": "Sandwich"
+    },
+    {
+        "id": 20,
+        "name": "Chicken Sandwich",
+        "price": 7.49,
+        "image": "https://i.ibb.co/Gkmvp7p/sandwich5.jpg",
+        "description": "Grilled chicken sandwich with lettuce, tomato, and mayo.",
+        "category": "Sandwich"
+    },
+    {
+        "id": 21,
+        "name": "Vanilla Cake",
+        "price": 8.99,
+        "image": "https://i.ibb.co/yXs27d1/cake1.jpg",
+        "description": "Classic vanilla cake with buttercream frosting.",
+        "category": "Cake"
+    },
+    {
+        "id": 22,
+        "name": "Red Velvet Cake",
+        "price": 9.99,
+        "image": "https://i.ibb.co/SsZM9NJ/cake2.jpg",
+        "description": "Moist red velvet cake with cream cheese frosting.",
+        "category": "Cake"
+    },
+    {
+        "id": 23,
+        "name": "Carrot Cake",
+        "price": 7.99,
+        "image": "https://i.ibb.co/THg5xKx/cake3.jpg",
+        "description": "Spiced carrot cake with cream cheese frosting.",
+        "category": "Cake"
+    },
+    {
+        "id": 24,
+        "name": "Black Forest Cake",
+        "price": 10.99,
+        "image": "https://i.ibb.co/ZJqVL0s/cake4.jpg",
+        "description": "Chocolate cake with cherries and whipped cream.",
+        "category": "Cake"
+    },
+    {
+        "id": 25,
+        "name": "Lemon Cake",
+        "price": 8.49,
+        "image": "https://i.ibb.co/Gc5pj48/cake5.jpg",
+        "description": "Tangy lemon cake with lemon buttercream.",
+        "category": "Cake"
+    },
+    {
+        "id": 26,
+        "name": "Veggie Burger",
+        "price": 7.49,
+        "image": "https://i.ibb.co/FWG7LbT/pure-vej1.jpg",
+        "description": "Grilled veggie patty with lettuce, tomato, and vegan mayo.",
+        "category": "Pure Veg"
+    },
+    {
+        "id": 27,
+        "name": "Grilled Vegetable Plate",
+        "price": 9.99,
+        "image": "https://i.ibb.co/pW9RmYF/pure-vej2.jpg",
+        "description": "Assorted grilled vegetables served with a side of quinoa.",
+        "category": "Pure Veg"
+    },
+    {
+        "id": 28,
+        "name": "Vegetable Stir Fry",
+        "price": 8.99,
+        "image": "https://i.ibb.co/XxdFJN4/pure-vej3.jpg",
+        "description": "Mixed vegetables stir-fried in a savory sauce.",
+        "category": "Pure Veg"
+    },
+    {
+        "id": 29,
+        "name": "Vegetable Curry",
+        "price": 9.49,
+        "image": "https://i.ibb.co/rpvTjCr/pure-vej4.jpg",
+        "description": "Mixed vegetables cooked in a spicy curry sauce.",
+        "category": "Pure Veg"
+    },
+    {
+        "id": 30,
+        "name": "Stuffed Bell Peppers",
+        "price": 10.49,
+        "image": "https://i.ibb.co/X7dtyXj/pure-vej5.jpg",
+        "description": "Bell peppers stuffed with rice and vegetables.",
+        "category": "Pure Veg"
+    },
+    {
+        "id": 31,
+        "name": "Spaghetti Bolognese",
+        "price": 11.99,
+        "image": "https://i.ibb.co/xFfJZtB/pasta1.jpg",
+        "description": "Classic Italian pasta with a rich meat sauce.",
+        "category": "Pasta"
+    },
+    {
+      "id": 32,
+      "name": "Fettuccine Alfredo",
+      "price": 10.99,
+      "image": "https://i.ibb.co/6sYyxH9/pasta2.jpg",
+      "description": "Creamy Alfredo sauce over fettuccine pasta.",
+      "category": "Pasta"
+  },
+  {
+      "id": 33,
+      "name": "Penne Arrabbiata",
+      "price": 9.99,
+      "image": "https://i.ibb.co/DRW6tWz/pasta3.jpg",
+      "description": "Spicy tomato sauce with penne pasta.",
+      "category": "Pasta"
+  },
+  {
+      "id": 34,
+      "name": "Lasagna",
+      "price": 12.99,
+      "image": "https://i.ibb.co/FhTxJ6d/pasta4.jpg",
+      "description": "Layered pasta with meat, cheese, and tomato sauce.",
+      "category": "Pasta"
+  },
+  {
+      "id": 35,
+      "name": "Pesto Pasta",
+      "price": 10.49,
+      "image": "https://i.ibb.co/KyTyS2c/pasta5.jpg",
+      "description": "Pasta with fresh basil pesto sauce.",
+      "category": "Pasta"
+  },
+  {
+      "id": 36,
+      "name": "Chow Mein",
+      "price": 8.99,
+      "image": "https://i.ibb.co/1nYQW47/noodles1.jpg",
+      "description": "Stir-fried noodles with vegetables and a savory sauce.",
+      "category": "Noodles"
+  },
+  {
+      "id": 37,
+      "name": "Pad Thai",
+      "price": 9.99,
+      "image": "https://i.ibb.co/R2LtT5j/noodles2.jpg",
+      "description": "Thai-style noodles with peanuts, lime, and tamarind sauce.",
+      "category": "Noodles"
+  },
+  {
+      "id": 38,
+      "name": "Lo Mein",
+      "price": 8.49,
+      "image": "https://i.ibb.co/gVBCvxY/noodles3.jpg",
+      "description": "Soft noodles stir-fried with vegetables and meat.",
+      "category": "Noodles"
+  },
+  {
+      "id": 39,
+      "name": "Udon Noodles",
+      "price": 9.49,
+      "image": "https://i.ibb.co/J75yv9N/noodles4.jpg",
+      "description": "Thick Japanese noodles in a savory broth.",
+      "category": "Noodles"
+  },
+  {
+      "id": 40,
+      "name": "Ramen",
+      "price": 10.99,
+      "image": "https://i.ibb.co/D1x24sP/noodles5.jpg",
+      "description": "Japanese noodle soup with a rich broth and toppings.",
+      "category": "Noodles"
+  }
+  ]
